@@ -1,13 +1,3 @@
-# Gabriel-Valim
-<img align="center" style="margin-bottom:100px" width=10% src="https://i.pinimg.com/564x/a2/5b/2d/a25b2d4b0d3d68a16b749661de69aad1.jpg" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Hello! I am a lover of science and technology👨‍💻. <br><br> </p>&nbsp;
-
-
- 
- &nbsp;
- &nbsp;
 
 ## My Skills
 
