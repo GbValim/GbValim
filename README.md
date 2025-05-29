@@ -27,5 +27,3 @@
 </a>
 <a href = "mailto:contato.gabriel07mercury@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
-
-![snake gif](https://raw.githubusercontent.com/GbValim/Snake/output/github-contribution-grid-snake.svg)
