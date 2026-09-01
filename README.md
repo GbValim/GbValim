@@ -9,7 +9,7 @@
 Desenvolvedor em formação, focado na construção de sistemas eficientes, arquitetura de software e automações. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento de Sistemas pelo SENAI**.
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS).
-- ⚙️ Experiência prática com desenvolvimento **Full Stack**, bancos de dados relacionais e microsserviços.
+- ⚙️ Experiência prática com desenvolvimento **Back-End** , bancos de dados relacionais e microsserviços.
 - 🎯 Foco atual: Aprofundamento no ecossistema **Spring (Java)** e **Laravel (PHP)** para desenvolvimento de APIs e ecossistemas web escaláveis.
 
 ---
@@ -53,3 +53,6 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
 ## 📫 Conecte-se Comigo
 
 Sinta-se à vontade para explorar meus repositórios, abrir *issues* ou entrar em contato para trocar ideias sobre desenvolvimento de software!
+
+Gmail: gabriel07mercury@gmail.com
+Telefone: (21) 99466-0261
