@@ -6,6 +6,10 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
 jobs:
   generate:
     permissions:
@@ -26,3 +30,4 @@ jobs:
           target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
