@@ -39,7 +39,7 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
 ---
 ---
 
-## 👾 Pac-Man das Minhas Contribuições
+## 👾  Minhas Contribuições
 
 <p align="center">
 
