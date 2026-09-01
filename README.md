@@ -37,26 +37,14 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+---
 
 ## 👾 Pac-Man das Minhas Contribuições
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GbValim/GbValim/output/pacman-contribution-graph-dark.svg"
-    />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/GbValim/GbValim/output/pacman-contribution-graph.svg"
-    />
+![Pac-Man das minhas contribuições](https://raw.githubusercontent.com/GbValim/GbValim/output/pacman-contribution-graph.svg)
 
-    <img
-      src="https://raw.githubusercontent.com/GbValim/GbValim/output/pacman-contribution-graph.svg"
-      alt="Pac-Man das minhas contribuições"
-    />
-  </picture>
 </p>
 
 ---
