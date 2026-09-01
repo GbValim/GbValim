@@ -5,6 +5,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ## 🚀 Sobre Mim
 
 Desenvolvedor em formação, focado na construção de sistemas eficientes, arquitetura de software e automações. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento de Sistemas pelo SENAI**.
