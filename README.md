@@ -53,8 +53,8 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
     />
 
     <img
-      alt="Pac-Man das contribuições do Gabriel"
       src="https://raw.githubusercontent.com/GbValim/GbValim/output/pacman-contribution-graph.svg"
+      alt="Pac-Man das minhas contribuições"
     />
   </picture>
 </p>
@@ -64,4 +64,3 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
 ## 📫 Conecte-se Comigo
 
 Sinta-se à vontade para explorar meus repositórios, abrir *issues* ou entrar em contato para trocar ideias sobre desenvolvimento de software!
-
