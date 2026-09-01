@@ -1,7 +1,6 @@
 # Olá, mundo! Sou o Gabriel 👋
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel07mercury@gmail.com)
 
 ---
 
@@ -38,18 +37,8 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" width="48%" />
-</p>
-
----
 
 ## 📫 Conecte-se Comigo
 
 Sinta-se à vontade para explorar meus repositórios, abrir *issues* ou entrar em contato para trocar ideias sobre desenvolvimento de software!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-valim-52514721b/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel07mercury@gmail.com)
