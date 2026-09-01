@@ -43,7 +43,7 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
 
 <p align="center">
 
-![Pac-Man das minhas contribuições](https://raw.githubusercontent.com/GbValim/GbValim/output/pacman-contribution-graph.svg)
+![ minhas contribuições](https://raw.githubusercontent.com/GbValim/GbValim/output/pacman-contribution-graph.svg)
 
 </p>
 
