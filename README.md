@@ -1,7 +1,5 @@
 # Olá, mundo! Sou o Gabriel 👋
 
-
-
 ---
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -19,6 +17,7 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
 ## 🛠️ Tecnologias e Ferramentas
 
 ### **Linguagens de Programação**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -27,15 +26,16 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Frameworks & Stacks**
+
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### **Banco de Dados & Ferramentas**
+
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
 ---
 
 ## 👾 Pac-Man das Minhas Contribuições
@@ -44,22 +44,22 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="[https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg](https://raw.githubusercontent.com/gabriel123/gabriel123/output/pacman-contribution-graph-dark.svg
-)"
+      srcset="https://raw.githubusercontent.com/GbValim/GbValim/output/pacman-contribution-graph-dark.svg"
     />
 
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg"
+      srcset="https://raw.githubusercontent.com/GbValim/GbValim/output/pacman-contribution-graph.svg"
     />
 
     <img
-      src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg"
-      alt="Pac-Man Contribution Graph"
+      alt="Pac-Man das contribuições do Gabriel"
+      src="https://raw.githubusercontent.com/GbValim/GbValim/output/pacman-contribution-graph.svg"
     />
   </picture>
 </p>
 
+---
 
 ## 📫 Conecte-se Comigo
 
