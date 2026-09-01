@@ -54,5 +54,4 @@ Desenvolvedor em formação, focado na construção de sistemas eficientes, arqu
 
 Sinta-se à vontade para explorar meus repositórios, abrir *issues* ou entrar em contato para trocar ideias sobre desenvolvimento de software!
 
-Gmail: gabriel07mercury@gmail.com
 Telefone: (21) 99466-0261
