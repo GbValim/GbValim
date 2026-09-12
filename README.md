@@ -2,7 +2,12 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img 
+  align="right"
+  width="44%"
+  src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg?raw=true"
+  alt="Developer Laptop"
+/>
 
 ## 🚀 Sobre Mim
 
