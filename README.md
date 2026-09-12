@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor em formação, focado na construção de sistemas eficientes, arquitetura de software e automações. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento de Sistemas pelo SENAI**.
+Desenvolvedor em formação, focado na construção de sistemas eficientes, arquitetura de software e automações. Atualmente cursando **Análise e Desenvolvimento de Sistemas pela ESTÁCIO** e **Desenvolvimento de Sistemas pelo SENAI**.
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS).
 - ⚙️ Experiência prática com desenvolvimento **Back-End** , bancos de dados relacionais e microsserviços.
